@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pieterjooste/BabyMoodClassifier.git/master?urlpath=%2Fvoila%2Frender%2FBabyClassifier_v1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pieterjooste/BabyMoodClassifier.git/main?urlpath=%2Fvoila%2Frender%2FBabyClassifier_v1.ipynb)
 
 #BabyClassifier
 
