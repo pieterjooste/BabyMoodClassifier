@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pieterjooste/BabyMoodClassifier.git/Git branch, tag or commit?filepath=%2Fvoila%2Frender%2FBabyClassifier_v1.ipynb)
+
 
 #BabyClassifier
 
