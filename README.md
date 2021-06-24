@@ -1,5 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pieterjooste/BabyMoodClassifier.git/main?urlpath=%2Fvoila%2Frender%2FBabyClassifier_v1.ipynb)
-
 #BabyClassifier
 
 Image classifier
@@ -20,11 +18,11 @@ No improvement after 10 epochs.
 
 Reached accuracy of 89%.
 
-Forum posting on Fastai by Vikrant Behal May 2020 made deployment of model on an app possible. (most difficult part of assignment)
+Forum posting on Fastai by Vikrant Behal May 2020 explained how to manage large files>25MB with git lfs. Deployment of app with MyBinder not possible. Heroku recommended. (https://course.fast.ai/deployment_heroku)Thanks Joe Dockrill.
 
 #Using App
 
-Launch Binder using icon above.
+
 
 Upload photo of a single baby less than 2 years.
 
