@@ -18,7 +18,9 @@ No improvement after 10 epochs.
 
 Reached accuracy of 89%.
 
-Forum posting on Fastai by Vikrant Behal May 2020 explained how to manage large files>25MB with git lfs. Deployment of app with MyBinder not possible. Heroku recommended. (https://course.fast.ai/deployment_heroku)Thanks Joe Dockrill.
+Forum posting on Fastai by Vikrant Behal May 2020 explained how to manage large files>25MB with git lfs. Deployment of app with MyBinder not possible. 
+
+Heroku recommended. (https://course.fast.ai/deployment_heroku) Thanks Joe Dockrill.
 
 #Using App
 
