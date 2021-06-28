@@ -12,19 +12,19 @@ Copied images to a total of 90 images.
 
 Data split by RandomSplitter (80:20) in training and validation set.
 
-Model trained with Resnet 34 on P5000 with 8 CPUs with learning rate of 0.01.
+Model trained with Resnet 101 on P5000 with 8 CPUs with learning rate of 0.01.
 
-No improvement after 10 epochs.
+No improvement after 12 epochs.
 
 Reached accuracy of 89%.
 
 Forum posting on Fastai by Vikrant Behal May 2020 explained how to manage large files>25MB with git lfs. Deployment of app with MyBinder not possible. 
 
-Heroku recommended. (https://course.fast.ai/deployment_heroku) Thanks Joe Dockrill.
+Heroku recommended. Deployment unsuccessful.
+
+Found Seeme.ai on Fastai forums. Founder Jan van de Poel. Excellent guidance to make my first deployment possible.
 
 #Using App
-
-
 
 Upload photo of a single baby less than 2 years.
 
